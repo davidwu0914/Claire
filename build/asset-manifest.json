@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2077a5e7.css",
+    "main.js": "./static/js/main.aaffce3d.js",
+    "static/media/service_seaweed_wrap.png": "./static/media/service_seaweed_wrap.5683089f119538cdb511.png",
+    "static/media/service_deep_hydration_4x.png": "./static/media/service_deep_hydration_4x.1af4dbd32093bb80da3e.png",
+    "static/media/contact_hero.png": "./static/media/contact_hero.34a7ba61004445e91ea8.png",
+    "static/media/service_orange_blossom.png": "./static/media/service_orange_blossom.f97c35433f6a0f81ad78.png",
+    "static/media/hero_main.png": "./static/media/hero_main.0f91c75b22b3a13e2c00.png",
+    "static/media/welcome_bg.png": "./static/media/welcome_bg.67d3c16b21c817c84972.png",
+    "static/media/service_vitamin_c_whitening.png": "./static/media/service_vitamin_c_whitening.2bad37156dcf6fe8cb35.png",
+    "static/media/service_ear_candle.png": "./static/media/service_ear_candle.a3ee24f00817b606d7b7.png",
+    "static/media/service_breast_wellness.png": "./static/media/service_breast_wellness.66212bcfb0e2eb69fb0e.png",
+    "static/media/service_head_spa.png": "./static/media/service_head_spa.74cac1ca05b8fe6b7ac6.png",
+    "static/media/service_hydra_facial.png": "./static/media/service_hydra_facial.2459edb48498440484cf.png",
+    "static/media/service_spa.png": "./static/media/service_spa.2e7f0cfc30dfb56c4b01.png",
+    "static/media/service_body_sculpting.png": "./static/media/service_body_sculpting.f6ae94776f336137a6bc.png",
+    "static/media/service_super_hydration.png": "./static/media/service_super_hydration.a5e4b3233c89f809f98c.png",
+    "static/media/service_miracle_sculpting.png": "./static/media/service_miracle_sculpting.410d8bdc5ffe25806efd.png",
+    "static/media/service_body_scrub.png": "./static/media/service_body_scrub.5d0118ed43653ebbaa6f.png",
+    "static/media/service_water_glow.png": "./static/media/service_water_glow.e444f9b0c5029a6cdded.png",
+    "static/media/salon_interior.png": "./static/media/salon_interior.bd862a775829db3c683b.png",
+    "static/media/service_body.png": "./static/media/service_body.1d56b697ed534de413ab.png",
+    "static/media/service_rf_lifting.png": "./static/media/service_rf_lifting.12cc74930e67435983e0.png",
+    "static/media/header_bg_texture.png": "./static/media/header_bg_texture.7d82f47bab62bfb5c57e.png",
+    "static/media/service_facial.png": "./static/media/service_facial.c1ed5db4208a34c79a80.png",
+    "static/media/logo_center.png": "./static/media/logo_center.94e951a794c482b6a0b6.png",
+    "index.html": "./index.html",
+    "main.2077a5e7.css.map": "./static/css/main.2077a5e7.css.map",
+    "main.aaffce3d.js.map": "./static/js/main.aaffce3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2077a5e7.css",
+    "static/js/main.aaffce3d.js"
+  ]
+}

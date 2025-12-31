@@ -1,0 +1,18 @@
+:root {
+    /* Premium Palette */
+    --primary-color: #D4A373; /* Bronzed Gold */
+    --secondary-color: #FEFAE0; /* Cream */
+    --accent-color: #D88C9A; /* Muted Rose */
+    --background-color: #FAFAFA; /* Off-White */
+    --text-color: #2E2E2E; /* Dark Slate */
+    --light-bg: #FFFFFF; /* White */
+    
+    /* Typography */
+    --heading-font: 'Playfair Display', serif;
+    --body-font: 'Lato', sans-serif;
+    
+    /* UI Elements */
+    --border-radius: 20px;
+    --box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    --transition: all 0.3s ease;
+}

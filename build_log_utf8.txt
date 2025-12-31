@@ -1,0 +1,17 @@
+﻿
+> claire-skin-management-center@1.0.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Failed to compile.
+
+TS2307: Cannot find module '../assets/images/logo_center.png' or its corresponding type declarations.
+    2 | [36mimport[39m { [33mLink[39m } [36mfrom[39m [32m'react-router-dom'[39m[33m;[39m
+    3 | [36mimport[39m [32m'./Header.css'[39m[33m;[39m
+  > 4 | [36mimport[39m logo [36mfrom[39m [32m'../assets/images/logo_center.png'[39m[33m;[39m
+      |                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    5 | 
+    6 | [36mconst[39m [33mHeader[39m[33m:[39m [33mReact[39m[33m.[39m[33mFC[39m [33m=[39m () [33m=>[39m {
+    7 |     [36mreturn[39m (
+
+
